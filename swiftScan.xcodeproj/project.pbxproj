@@ -177,7 +177,7 @@
 				TargetAttributes = {
 					7D42B9AB1C05EE9A0084D045 = {
 						CreatedOnToolsVersion = 7.1;
-						DevelopmentTeam = F3R362NJ48;
+						DevelopmentTeam = 99KVFPJC2N;
 						LastSwiftMigration = 0820;
 						ProvisioningStyle = Automatic;
 					};
@@ -377,11 +377,11 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = F3R362NJ48;
+				DEVELOPMENT_TEAM = 99KVFPJC2N;
 				INFOPLIST_FILE = swiftScan/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.larry.Doctor;
+				PRODUCT_BUNDLE_IDENTIFIER = com.larry.Doc;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "5afb03a3-32bd-412b-9db2-5fa2d3271415";
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -397,11 +397,11 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = F3R362NJ48;
+				DEVELOPMENT_TEAM = 99KVFPJC2N;
 				INFOPLIST_FILE = swiftScan/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.larry.Doctor;
+				PRODUCT_BUNDLE_IDENTIFIER = com.larry.Doc;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "5afb03a3-32bd-412b-9db2-5fa2d3271415";
 				PROVISIONING_PROFILE_SPECIFIER = "";
